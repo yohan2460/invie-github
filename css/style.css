@@ -19,6 +19,8 @@ nav {
   border-radius: 10px;
   text-transform: uppercase;
   background: rgb(65, 146, 65);
+  display: inline-block;
+
 }
 .clases {
   border: 1px solid black;
@@ -27,7 +29,16 @@ nav {
   border-radius: 10px;
   background-color: rgb(30, 71, 30);
   color: white;
+
 }
 .clases:hover {
   background-color: rgb(42, 95, 42);
 }
+.repositorio{
+  border: 1px solid black;
+ height: 50px;
+ width: 100px;
+ display: block;
+
+
+ }
